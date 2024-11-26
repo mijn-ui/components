@@ -1,7 +1,7 @@
 {
   "name": "@mijn-ui/react-tabs",
   "author": "Htet Aung Lin<htetaunglin.coder@gmail.com>",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://mijn-ui.vercel.app",
   "license": "MIT",
   "type": "module",
