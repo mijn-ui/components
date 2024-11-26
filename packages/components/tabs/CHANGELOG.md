@@ -1,5 +1,11 @@
 # @mijn-ui/react-tabs
 
+## 0.0.5
+
+### Patch Changes
+
+- ca9ef36: Add unstyled provider
+
 ## 0.0.4
 
 ### Patch Changes
